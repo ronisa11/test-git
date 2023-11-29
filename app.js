@@ -4,3 +4,4 @@ let c =4;
 function bb() {
     return  a*c    
 };
+let x=0;
